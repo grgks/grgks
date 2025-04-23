@@ -29,7 +29,7 @@
 ## 🌍 Links
 
 - [GitHub](https://github.com/grgks)
-- [LinkedIn](www.linkedin.com/in/giorgos-kounelis-882332360/)
+- [LinkedIn: Giorgos Kounelis](https://www.linkedin.com/in/giorgos-kounelis-882332360)
 
 ---
 ## 🎯 Goals
