@@ -18,18 +18,6 @@
 ---
 ## 📂 Popular Projects
 
-## 📂 Popular Projects
-
-## 📂 Popular Projects
-
-## 📂 Popular Projects
-
-## 📂 Popular Projects
-
-## 📂 Popular Projects
-
-## 📂 Popular Projects
-
 - **[my-calculator-proj](https://github.com/grgks/my-calculator-proj)** – 🧮 A calculator in Java with a GUI. *(Learning project to practice Java fundamentals and GUI development.)*
 - **[Projects](https://github.com/grgks/Projects)** – 📁 A collection of various projects and exercises. *(Includes learning exercises and small projects to master programming concepts.)*
 - **[Personal-CV](https://github.com/grgks/Personal-CV)** – 📝 Personal CV built with HTML, CSS, and **Bootstrap**. *(Learning project to practice HTML layout, CSS styling, and responsive design with Bootstrap.)*
