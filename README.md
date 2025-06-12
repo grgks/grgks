@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Giorgos (grgks)
+# 👋 Hi there! I'm Giorgos
 
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
@@ -8,13 +8,23 @@
 ## 🚀 Technologies I Use
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 ---
 ## 📂 Popular Projects
 
@@ -34,11 +44,16 @@
 ---
 ## 🎯 Goals
 
-- 🐍 To start and dive deeper into Python.
-- ☕ To develop more complex projects in Java.
-- 💡 To build small personal projects to improve my logic and code architecture.
-- 🌐 To explore back-end technologies like Node.js.
-- 📘 To continue evolving in Angular and TypeScript.
+- 🐍  To start and dive deeper into **Python**.
+- ☕  To develop more complex projects in **Java**.
+- 💡  To build small personal projects to improve my **logic** and **code architecture**.
+- 🌐  To explore back-end technologies like **Node.js**.
+- 📘  To continue evolving in **Angular** and **TypeScript**.
+- 🗄️  To strengthen my skills in working with **SQL** and **NoSQL databases** (e.g. MySQL, MongoDB).
+- ☁️  To learn **deployment** and **cloud integration** using **Firebase**, **Docker**, and **Vercel**.
+- 🧪  To practice writing better **tests** using tools like **JUnit**, **Postman**, and **testing libraries**.
+- 🤝  To contribute to **open-source projects** and collaborate with other developers.
+- 📚  To continue learning through **books**, **courses**, and **technical blogs**.
 
 ---
 ## 📬 Contact
