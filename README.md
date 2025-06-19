@@ -1,7 +1,6 @@
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  👋 Welcome to my profile!
-</marquee>
 
+  👋 Hi there!My name is Giorgos!
+        Welcome to my profile!
 
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
