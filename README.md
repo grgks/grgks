@@ -1,6 +1,6 @@
 
-  👋 Hi there!My name is Giorgos!
-        Welcome to my profile!
+ <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NTAiIGhlaWdodD0iNDAiPgo8dGV4dCB4PSIwIiB5PSIzMCIgZm9udC1zaXplPSIyMCIgZmlsbD0iYmx1ZSI+CiAgICBIaSB0aGVyZSEgTXkgbmFtZSBpcyBHaW9yZ29zISBXZWxjb21lIHRvIG15IHByb2ZpbGUhCiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJmaWxsIiB2YWx1ZXM9ImJsdWU7Z3JlZW47cmVkO2JsdWUiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgo8L3RleHQ+Cjwvc3ZnPg==" alt="Welcome message" />
+
 
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
