@@ -1,6 +1,4 @@
-<marquee direction="right" scrollamount="5" style="color:blue; font-size:20px;">
-  Γεια σου! Αυτό είναι το προφίλ μου!
-</marquee>
+#<marquee>Καλώς ήρθες στο προφίλ μου στο GitHub!</marquee>
 
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
