@@ -1,7 +1,8 @@
 
  👋 Hi there!My name is Giorgos!
         Welcome to my profile . . .
-        ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
+        ---
+ ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
         
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
