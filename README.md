@@ -2,7 +2,8 @@
  👋 Hi there!My name is Giorgos!
         Welcome to my profile . . .
 
- ![GitHub language count](https://img.shields.io/github/languages/count/https%3A%2F%2Fgithub.com%2Fgrgks/:repo?style=flat)
+ ![GitHub language count](https://img.shields.io/github/languages/count/grgks/grgks?style=flat)
+
 
 
         
