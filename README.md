@@ -1,5 +1,5 @@
 
- <p align="center" style="font-size: 1.2em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6a0dad;">
+<p align="center" style="font-size: 1.4em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6a0dad; text-shadow: 2px 2px 5px rgba(106, 13, 173, 0.7);">
   👋 Hi there! My name is Giorgos!<br/>
   Welcome to my profile . . .
 </p>
