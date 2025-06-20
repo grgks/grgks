@@ -16,7 +16,7 @@ Check out my GitHub contributions graph to see my activity over time:
   <a href="https://github.com/grgks" style="margin-right:15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical" alt="GitHub Profile" width="250"/>
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical" alt="GitHub Streak" width="250" style="margin-right:15px;"/>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical" alt="GitHub Streak" width="250" style="margin-right:15px;"/><a/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical" alt="Top Languages" width="250"/>
 </p>
 
