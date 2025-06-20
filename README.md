@@ -2,7 +2,8 @@
  👋 Hi there!My name is Giorgos!
         Welcome to my profile . . .
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/week/grgks/grgks/main)
+![GitHub language count](https://img.shields.io/github/languages/count/grgks/grgks?style=flat)
+
 
 
 
