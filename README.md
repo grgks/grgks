@@ -4,7 +4,7 @@
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/week/grgks/grgks)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/month/grgks/grgks)
 
 
 
