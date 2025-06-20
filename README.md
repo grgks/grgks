@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFD700;
+<p align="center" style="font-size: 6rem; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFD700;
   text-shadow: 0 0 8px #FFA500, 0 0 10px #FFD700, 0 0 15px #FFD700;">
   👋 Hi there! My name is Giorgos!<br/>
   Welcome to my profile . . .
