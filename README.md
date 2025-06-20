@@ -2,7 +2,13 @@
  👋 Hi there!My name is Giorgos!
         Welcome to my profile . . .
 
+![GitHub stars](https://img.shields.io/github/stars/grgks/grgks?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/grgks/grgks?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/grgks/grgks?style=flat)
+![GitHub license](https://img.shields.io/github/license/grgks/grgks?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/grgks/grgks?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/week/grgks/grgks/main)
 
 
 
