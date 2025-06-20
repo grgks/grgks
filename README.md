@@ -1,8 +1,7 @@
 
  👋 Hi there!My name is Giorgos!
-        ![Welcome](https://img.shields.io/badge/Welcome-%F0%9F%91%8B%20%F0%9F%8C%8B-yellow?style=for-the-badge&animation=twinkle)
-
-
+        Welcome to my profile . . .
+        
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
 🌱 Constantly evolving with Java, TypeScript, Angular, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
 📚 I share my projects to learn, collaborate, and grow with others in the tech community, contributing to meaningful solutions and real-world applications.
