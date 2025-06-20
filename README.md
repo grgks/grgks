@@ -13,6 +13,8 @@
 Check out my GitHub contributions graph to see my activity over time:
 
 [![GitHub Profile](https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical)](https://github.com/grgks)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical)
+
 ---
 ## 🚀 Technologies I Use
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
