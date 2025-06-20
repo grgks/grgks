@@ -1,9 +1,9 @@
-
-<p align="center" style="font-size: 1.4em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFD700; /* χρυσό */
+<p align="center" style="font-size: 2em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #FFD700;
   text-shadow: 0 0 8px #FFA500, 0 0 10px #FFD700, 0 0 15px #FFD700;">
   👋 Hi there! My name is Giorgos!<br/>
   Welcome to my profile . . .
 </p>
+
 
 
  ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
