@@ -15,7 +15,7 @@
 
 ## <span style="font-size:14px;">🚀 My GitHub Activity</span>
 
-Check out my GitHub contributions graph to see my activity over time:
+Check out my GitHub contributions graphs to see my activity over time:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical" alt="Top Languages" width="275" style="margin-right:15px;"/>
