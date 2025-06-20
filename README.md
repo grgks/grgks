@@ -24,8 +24,9 @@ Check out my GitHub contributions graph to see my activity over time:
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=grgks&theme=react-dark&hide_border=true" alt="GitHub Contributions" width="830" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grgks&theme=radical" alt="GitHub Profile Details" width="830" />
 </p>
+
 
 
 
