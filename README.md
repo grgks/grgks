@@ -1,6 +1,9 @@
 
- 👋 Hi there!My name is Giorgos!
-        Welcome to my profile . . .
+ <p align="center" style="font-size: 1.2em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6a0dad;">
+  👋 Hi there! My name is Giorgos!<br/>
+  Welcome to my profile . . .
+</p>
+
  ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
  
 🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
