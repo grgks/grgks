@@ -8,7 +8,7 @@
 📚 I share my projects to learn, collaborate, and grow with others in the tech community, contributing to meaningful solutions and real-world applications.
 ---
 
-## My GitHub Activity
+# 🚀 My GitHub Activity
 
 Check out my GitHub contributions graph to see my activity over time:
 
