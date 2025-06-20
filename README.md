@@ -12,8 +12,16 @@
 
 Check out my GitHub contributions graph to see my activity over time:
 
-[![GitHub Profile](https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical)](https://github.com/grgks)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical)
+<p align="center">
+  <a href="https://github.com/grgks">
+    <img src="https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical" alt="GitHub Profile" width="350"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical" alt="GitHub Streak" width="350"/>
+</p>
+
 
 ---
 ## 🚀 Technologies I Use
