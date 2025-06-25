@@ -20,7 +20,6 @@ Check out my GitHub contributions graphs to see my activity over time:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical" alt="Top Languages" width="275" style="margin-right:15px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical" alt="GitHub Profile" width="275" style="margin-right:15px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grgks&theme=radical" alt="GitHub Streak" width="275"/>
 </p>
 
 <p align="center">
