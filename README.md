@@ -74,7 +74,7 @@
 - **[cf7-angular-introduction](https://github.com/grgks/cf7-angular-introduction)** – 📘 Angular introduction with examples.  
   *(Learning project to explore the Angular framework and its component-based structure.)*
 
-  - **[my-calculator-proj](https://github.com/grgks/my-calculator-proj)** – 🧮 A calculator in Java with a GUI.  
+- **[my-calculator-proj](https://github.com/grgks/my-calculator-proj)** – 🧮 A calculator in Java with a GUI.  
   *(Learning project to practice Java fundamentals and GUI development using Swing.)*
 ---
 ## 🌍 Links
