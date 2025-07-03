@@ -71,9 +71,6 @@
 - **[school-app-pro](https://github.com/grgks/school-app-pro)** – 🎓 A full-stack school data management app developed with **Java**, **JSP**, **MySQL**, **Lombok**, and **Maven**.  
   *(Learning project focused on web development with JSP pages, MySQL database integration, and efficient coding practices using Lombok and Maven.)*
 
-- **[cf7-angular-introduction](https://github.com/grgks/cf7-angular-introduction)** – 📘 Angular introduction with examples.  
-  *(Learning project to explore the Angular framework and its component-based structure.)*
-
 - **[my-calculator-proj](https://github.com/grgks/my-calculator-proj)** – 🧮 A calculator in Java with a GUI.  
   *(Learning project to practice Java fundamentals and GUI development using Swing.)*
 ---
