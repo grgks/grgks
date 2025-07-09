@@ -71,8 +71,8 @@
 - **[school-app-pro](https://github.com/grgks/school-app-pro)** – 🎓 A full-stack school data management app developed with **Java**, **JSP**, **MySQL**, **Lombok**, and **Maven**.  
   *(Learning project focused on web development with JSP pages, MySQL database integration, and efficient coding practices using Lombok and Maven.)*
 
-- **[my-calculator-proj](https://github.com/grgks/my-calculator-proj)** – 🧮 A calculator in Java with a GUI.  
-  *(Learning project to practice Java fundamentals and GUI development using Swing.)*
+- **[rock-paper-scissorsPY](https://github.com/grgks/rock-paper-scissorsPY)** – Classic Rock Paper Scissors game in Python, with GUI using Tkinter and score tracking. Developed for learning Python programming and its standard libraries.
+
 ---
 ## 🌍 Links
 
