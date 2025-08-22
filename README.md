@@ -61,7 +61,12 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 📂 Popular Projects
+### Current Development *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
+- **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)** - Modern React appointment/client management system with TypeScript and TailwindCSS 
+- **[System Management REST API](https://github.com/grgks/system-management-RestAPI)** - Spring Boot backend with JWT authentication and MySQL database 
 
+
+### Other Projects
 - **[appR](https://github.com/grgks/appR)** – 📱 A full-stack application built with HTML, CSS, JavaScript, **Node.js**, and **MongoDB**, including **JWT** and **Google Authentication**.  
   *(Learning project focused on full-stack development, user authentication, and back-end integration using modern web technologies.)*
 
