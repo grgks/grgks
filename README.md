@@ -63,7 +63,7 @@
 ## 📂 Popular Projects
 ### Current Development *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
 - **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)** - Modern React appointment/client management system with TypeScript and TailwindCSS 
-- **[System Management REST API](https://github.com/grgks/system-management-RestAPI)** - Spring Boot backend with JWT authentication and MySQL database 
+- **[WorkApp Backend](https://github.com/grgks/system-management-RestAPI)** - Spring Boot backend with JWT authentication and MySQL database 
 
 
 ### Other Projects
