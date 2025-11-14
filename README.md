@@ -5,9 +5,11 @@
 
  ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
  
-🔧 A passionate full-stack developer with a focus on clean, efficient, and scalable code, delivering creative solutions across both front-end and back-end.
-🌱 Constantly evolving with Java, TypeScript, JavaScript, Python, and exploring new technologies to stay at the forefront of development.
-📚 I share my projects to learn, collaborate, and grow with others in the tech community, contributing to meaningful solutions and real-world applications.
+🔧 A passionate **full-stack developer** with expertise in **clean architecture**, **containerization**, and **CI/CD automation**, delivering scalable solutions across modern tech stacks.
+
+🌱 Constantly evolving with **Java**, **TypeScript**, **React**, **Docker**, and **DevOps practices** to build production-ready applications.
+
+📚 I share my projects to learn, collaborate, and grow with the tech community, contributing to **real-world solutions** with **comprehensive testing** and **automated deployments**.
 
 
 ## 🚀 My GitHub Activity
@@ -60,11 +62,45 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 
+---
+
+### 🐳 DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+### 🔒 Testing & Security
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=flat&logo=java&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
 ## 📂 Popular Projects
 ### Current Development *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
-- **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)** - Modern React appointment/client management system with TypeScript and TailwindCSS 
-- **[WorkApp Backend](https://github.com/grgks/system-management-RestAPI)** - Spring Boot backend with JWT authentication and MySQL database 
+- **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)**
+  - Modern React 19 + TypeScript + TailwindCSS
+  - E2E testing with Selenium
+  - Docker containerized (84MB)
+  - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-frontend)
+- **[WorkApp Backend](https://github.com/grgks/system-management-RestAPI)**
+  - Spring Boot 3 + JWT + MySQL
+  - 193 tests with 78% coverage
+  - Multi-stage Docker build (384MB → 123MB)
+  - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-backend)
 
+- **[WorkApp Deployment](https://github.com/grgks/workapp-deployment)** 
+  - Docker Compose orchestration
+  - Automated MySQL initialization
+  - CI/CD with GitHub Actions
+  - Security scanning with Trivy
+  - Complete production deployment
+
+**Tech Stack:** Spring Boot • React • TypeScript • MySQL • Docker • GitHub Actions • Nginx  
+**Features:** JWT Auth • Role-based Authorization • Automated Testing • CI/CD • Security Scanning
 
 ### Other Projects
 - **[appR](https://github.com/grgks/appR)** – 📱 A full-stack application built with HTML, CSS, JavaScript, **Node.js**, and **MongoDB**, including **JWT** and **Google Authentication**.  
@@ -85,19 +121,23 @@
 
 
 ---
-## 🎯 Goals
+## 🎯 Current Focus & Goals
 
-- 🐍  To start and dive deeper into **Python**.
-- ☕  To develop more complex projects in **Java**.
-- 💡  To build small personal projects to improve my **logic** and **code architecture**.
-- 🌐  To explore back-end technologies like **Node.js**.
-- 📘  To continue evolving in **Angular** and **TypeScript**.
-- 🗄️  To strengthen my skills in working with **SQL** and **NoSQL databases** (e.g. MySQL, MongoDB).
-- ☁️  To learn **deployment** and **cloud integration** using **Firebase**, **Docker**, and **Vercel**.
-- 🧪  To practice writing better **tests** using tools like **JUnit**, **Postman**, and **testing libraries**.
-- 🤝  To contribute to **open-source projects** and collaborate with other developers.
-- 📚  To continue learning through **books**, **courses**, and **technical blogs**.
+**Recently Achieved:**
+- ✅ Docker containerization & multi-stage builds
+- ✅ CI/CD pipelines with GitHub Actions
+- ✅ Security scanning automation (Trivy)
+- ✅ Comprehensive testing (193 tests, 78% coverage)
+- ✅ Production deployment with Docker Compose
 
+**Next Steps:**
+- 🚀 Kubernetes orchestration and scaling
+- ☁️ Cloud deployment (AWS/Azure)
+- 📊 Monitoring & observability (Prometheus/Grafana)
+- 🔄 Advanced CI/CD patterns
+- 🐍 Python for data processing & automation
+- 🤝 Open-source contributions
+- 📱 Mobile development integration
 ---
 ## 📬 Contact
 
