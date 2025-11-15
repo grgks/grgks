@@ -79,6 +79,7 @@
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
+---
 ## 📂 Popular Projects
 ### Current Development *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
 - **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)**
