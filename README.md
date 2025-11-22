@@ -82,16 +82,25 @@
 ---
 ## 📂 Popular Projects
 ### Current Development *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
+
+**🌐 Live Production:**
+- **Frontend:** https://appointment-system-react-one.vercel.app
+- **Backend API:** https://system-management-restapi.onrender.com
+- **Documentation:** https://system-management-restapi.onrender.com/swagger-ui.html
+
 - **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)**
   - Modern React 19 + TypeScript + TailwindCSS
   - E2E testing with Selenium
   - Docker containerized (84MB)
   - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-frontend)
+  - [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://appointment-system-react-one.vercel.app)
+
 - **[WorkApp Backend](https://github.com/grgks/system-management-RestAPI)**
   - Spring Boot 3 + JWT + MySQL
   - 193 tests with 78% coverage
   - Multi-stage Docker build (384MB → 123MB)
   - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-backend)
+  - [![Render](https://img.shields.io/badge/Live-Render-46E3B7?logo=render)](https://system-management-restapi.onrender.com)
 
 - **[WorkApp Deployment](https://github.com/grgks/workapp-deployment)** 
   - Docker Compose orchestration
@@ -130,7 +139,8 @@
 - ✅ Security scanning automation (Trivy)
 - ✅ Comprehensive testing (193 tests, 78% coverage)
 - ✅ Production deployment with Docker Compose
-
+- ✅ Cloud deployment (Vercel + Render)
+- ✅ Analytics & monitoring (Vercel Analytics)
 **Next Steps:**
 - 🚀 Kubernetes orchestration and scaling
 - ☁️ Cloud deployment (AWS/Azure)
