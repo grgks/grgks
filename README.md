@@ -81,7 +81,7 @@
 
 ---
 ## 📂 Popular Projects
-### ➡️ Current Development  *(Application to keep [Roomies](https://codingfactory.aueb.gr/](https://github.com/grgks/roomies-RestAPI))* Happy)
+### ➡️ Current Development  *(Application to keep [Roomies](https://github.com/grgks/roomies-RestAPI/))* Happy)
 ---
 ### ➡️ Current Development  *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
 
