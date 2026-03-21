@@ -81,9 +81,9 @@
 
 ---
 ## 📂 Popular Projects
-### ➡️ Current Development  *(Application to keep [Roomies](https://github.com/grgks/roomies-RestAPI/))* Happy)
+### ↪  Current Development: ➡️ Application to keep [Roomies](https://github.com/grgks/roomies-RestAPI/) Happy ⬅️
 ---
-### ➡️ Current Development  *(capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/))*
+### ▶   Current Development: ➡️ capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/) ⬅️
 
 **🌐 Live Production:**
 - **Frontend:** https://appointment-system-react-one.vercel.app
