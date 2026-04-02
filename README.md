@@ -13,6 +13,10 @@
 
 📚 I share my projects to learn, collaborate, and grow with the tech community, contributing to **real-world solutions** with **comprehensive testing** and **automated deployments**.
 
+<p align="center">
+🥐 <strong>Fun Fact:</strong> I code best with coffee and croissants by my side.
+</p>
+
 
 ## 🚀 My GitHub Activity
 
