@@ -15,12 +15,12 @@
 ## 🚀 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical" alt="Top Languages" width="275" style="margin-right:15px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=grgks&show_icons=true&theme=radical" alt="GitHub Profile" width="275" style="margin-right:15px;"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grgks&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grgks&theme=radical" alt="GitHub Profile Details" width="830" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grgks&theme=radical"/>
 </p>
 
 ## 🚀 Technologies & Tools
@@ -80,10 +80,11 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ---
-## 📂 Popular Projects
+## 💼 Featured Projects
 ### ↪  <ins>Current Development</ins>: ➡️ Application to keep [Roomies](https://github.com/grgks/roomies-RestAPI/) Happy ⬅️
 ---
 ### ▶   Current Development: ➡️ capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/) ⬅️
+A full-stack production-ready system with CI/CD, containerization, and security-first design.
 
 **🌐 Live Production:**
 - **Frontend:** https://appointment-system-react-one.vercel.app
@@ -114,7 +115,7 @@
 **Tech Stack:** Spring Boot • React • TypeScript • MySQL • Docker • GitHub Actions • Nginx  
 **Features:** JWT Auth • Role-based Authorization • Automated Testing • CI/CD • Security Scanning
 
-### Other Projects
+### 📌 Additional Projects
 - **[appR](https://github.com/grgks/appR)** – 📱 A full-stack application built with HTML, CSS, JavaScript, **Node.js**, and **MongoDB**, including **JWT** and **Google Authentication**.  
   *(Learning project focused on full-stack development, user authentication, and back-end integration using modern web technologies.)*
 
