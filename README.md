@@ -5,7 +5,9 @@
 
  ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
  
-🔧 A passionate **full-stack developer** with expertise in **clean architecture**, **containerization**, and **CI/CD automation**, delivering scalable solutions across modern tech stacks.
+🔧 Full-stack developer focused on building secure, scalable applications using clean architecture, containerization, and CI/CD automation.
+
+☁️ Interested in Cloud (Azure) and Cybersecurity, with hands-on experience in secure system design and automated vulnerability scanning.
 
 🌱 Constantly evolving with **Java**, **TypeScript**, **React**, **Docker**, and **DevOps practices** to build production-ready applications.
 
@@ -85,6 +87,7 @@
 ---
 ### ▶   Current Development: ➡️ capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/) ⬅️
 A full-stack production-ready system with CI/CD, containerization, and security-first design.
+Designed to simulate a real-world enterprise environment with end-to-end deployment, security integration, and automated workflows.
 
 **🌐 Live Production:**
 - **Frontend:** https://appointment-system-react-one.vercel.app
