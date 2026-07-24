@@ -154,10 +154,10 @@ React 19 + TypeScript + Tailwind v4 + react-i18next, deployed on Vercel with cus
 
 ### 🧪 Earlier Learning Projects
 
-- **[appR](https://github.com/grgks/appR)** — Node.js + MongoDB with JWT and Google OAuth. Learning full-stack auth and social login flows.
-- **[spring7-rest](https://github.com/grgks/spring7-rest)** — Learning REST API structure with Spring Boot: controllers, services, repositories, JSON handling.
-- **[school-app-pro](https://github.com/grgks/school-app-pro)** — Java + JSP + MySQL + Maven. Learning classic Java web development before moving to Spring Boot.
-- **[rock-paper-scissorsPY](https://github.com/grgks/rock-paper-scissorsPY)** — Python + Tkinter GUI. Learning Python fundamentals and standard library.
+- **[appR](https://github.com/grgks/appR)** ▶ Node.js + MongoDB with JWT and Google OAuth. Learning full-stack auth and social login flows.
+- **[spring7-rest](https://github.com/grgks/spring7-rest)** ▶ Learning REST API structure with Spring Boot: controllers, services, repositories, JSON handling.
+- **[school-app-pro](https://github.com/grgks/school-app-pro)** ▶ Java + JSP + MySQL + Maven. Learning classic Java web development before moving to Spring Boot.
+- **[rock-paper-scissorsPY](https://github.com/grgks/rock-paper-scissorsPY)** ▶ Python + Tkinter GUI. Learning Python fundamentals and standard library.
 
 ---
 
