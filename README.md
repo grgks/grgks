@@ -5,13 +5,16 @@
 
  ![GitHub last commit](https://img.shields.io/github/last-commit/grgks/grgks?style=flat)
  
-🔧 Full-stack developer focused on building secure, scalable applications using clean architecture, containerization, and CI/CD automation.
+🎯 Career-changer into software development, currently focused on **Java backend** and **DevSecOps**. Building things end-to-end to understand *why* decisions are made, not just *how* to copy them.
 
-☁️ Interested in Cloud (Azure) and Cybersecurity, with hands-on experience in secure system design and automated vulnerability scanning.
+🔒 Security-first mindset from a cybersecurity bootcamp and ISC2 CC foundation. I try to think about authentication, authorization, and threat modelling before I write the first line of a feature.
 
-🌱 Constantly evolving with **Java**, **TypeScript**, **React**, **Docker**, and **DevOps practices** to build production-ready applications.
+☁️ Getting hands-on with Azure (AZ-900 done) through real deployments: Azure Static Web Apps, Application Insights, and a self-hosted Keycloak on Hetzner with SSH hardening, fail2ban, and defense-in-depth.
 
-📚 I share my projects to learn, collaborate, and grow with the tech community, contributing to **real-world solutions** with **comprehensive testing** and **automated deployments**.
+🌱 Working with **Java 21 + Spring Boot 4**, **React 19 + TypeScript**, **Keycloak**, **Docker**, **MySQL**, and CI/CD via **GitHub Actions**. Learning by shipping, not by tutorials.
+
+📚 My repos are portfolio projects. A mix of learning experiments and production-grade work. Feedback and pull requests are always welcome.
+
 
 <p align="center">
 🥐 <strong>Fun Fact:</strong> I code best with coffee and croissants by my side.
@@ -30,6 +33,8 @@
 </p>
 
 ## 🚀 Technologies & Tools
+
+*A mix of what I use daily today and what I've explored earlier while learning. I try to keep everything I list here honest about the depth I have with it.*
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -51,6 +56,10 @@
 ![Lombok](https://img.shields.io/badge/Lombok-8D44AD?style=flat&logo=java&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-EE6C4D?style=flat&logo=jakartaee&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ---
 
@@ -75,6 +84,21 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 Monitoring & Observability
+![Application Insights](https://img.shields.io/badge/App_Insights-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![UptimeRobot](https://img.shields.io/badge/UptimeRobot-1A8E4A?style=flat&logo=uptimerobot&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-6C4A9C?style=flat&logo=owasp&logoColor=white)
+![fail2ban](https://img.shields.io/badge/fail2ban-D33241?style=flat&logo=linux&logoColor=white)
 
 ---
 
@@ -87,79 +111,88 @@
 
 ---
 ## 💼 Featured Projects
-### ↪  <ins>Current Development</ins>: ➡️ Application to keep [Roomies](https://github.com/grgks/roomies-RestAPI/) Happy ⬅️
----
-### ▶   Current Development: ➡️ capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/) ⬅️
-A full-stack production-ready system with CI/CD, containerization, and security-first design.
-Designed to simulate a real-world enterprise environment with end-to-end deployment, security integration, and automated workflows.
 
-**🌐 Live Production:**
+### 🏠 The Roommies ▶ Co-living Management PWA *(active)*
+
+A full-stack production app for co-living households: expenses, tasks, ratings, invitations, messaging, and admin management. Bilingual (Greek / English), installable PWA, running with real beta users. This is the project I put most of my time into and where I explore most of what I'm learning about backend, security, and infrastructure.
+
+**🌐 Live:** [www.theroommies.gr](https://www.theroommies.gr)
+
+- **[Frontend (public)](https://github.com/grgks/Roomies-frontend-React)** ▶ React 19 + TypeScript + Vite 8 + Tailwind v4 + shadcn/ui, react-i18next, PWA with custom service worker, Web Push notifications via VAPID, Azure Static Web Apps deployment with strict CSP + HSTS
+- **Backend (private for now)** ▶ Spring Boot 4 + Java 21 + Keycloak + MySQL + Flyway (V1–V7) + Bucket4j rate limiting + WebSocket/STOMP + AI House Report via Gemini with anonymized data. 600+ tests, SonarQube Grade A. Deployed on Railway with Keycloak self-hosted on a Hetzner VPS with SSH hardening, fail2ban, Caddy for auto-TLS
+
+The backend is kept private while the product is still evolving and pre-launch. I'm happy to walk through the architecture in an interview.
+
+**Stack highlights:** Java 21 • Spring Boot 4 • Keycloak • React 19 • Vite • MySQL • Docker • Caddy • GitHub Actions • Azure Static Web Apps • Hetzner Cloud
+
+---
+
+### 📅 WorkApp ▶ Appointment Management System *(capstone)*
+
+Capstone project for [Coding Factory AUEB](https://codingfactory.aueb.gr/). Where I first got serious about testing, containerization, and CI/CD end-to-end.
+
+**🌐 Live:**
 - **Frontend:** https://appointment-system-react-one.vercel.app
-- **Backend API:** https://system-management-restapi.onrender.com
-- **Documentation:** https://system-management-restapi.onrender.com/swagger-ui.html
+- **Backend:** https://system-management-restapi.onrender.com
+- **Docs:** https://system-management-restapi.onrender.com/swagger-ui.html
 
-- **[WorkApp Frontend](https://github.com/grgks/appointment-system-react)**
-  - Modern React 19 + TypeScript + TailwindCSS
-  - E2E testing with Selenium
-  - Docker containerized (84MB)
-  - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-frontend)
-  - [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://appointment-system-react-one.vercel.app)
-
-- **[WorkApp Backend](https://github.com/grgks/system-management-RestAPI)**
-  - Spring Boot 3 + JWT + MySQL
-  - 193 tests with 78% coverage
-  - Multi-stage Docker build (384MB → 123MB)
-  - [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/grgks/workapp-backend)
-  - [![Render](https://img.shields.io/badge/Live-Render-46E3B7?logo=render)](https://system-management-restapi.onrender.com)
-
-- **[WorkApp Deployment](https://github.com/grgks/workapp-deployment)** 
-  - Docker Compose orchestration
-  - Automated MySQL initialization
-  - CI/CD with GitHub Actions
-  - Security scanning with Trivy
-  - Complete production deployment
-
-**Tech Stack:** Spring Boot • React • TypeScript • MySQL • Docker • GitHub Actions • Nginx  
-**Features:** JWT Auth • Role-based Authorization • Automated Testing • CI/CD • Security Scanning
-
-### 📌 Additional Projects
-- **[appR](https://github.com/grgks/appR)** – 📱 A full-stack application built with HTML, CSS, JavaScript, **Node.js**, and **MongoDB**, including **JWT** and **Google Authentication**.  
-  *(Learning project focused on full-stack development, user authentication, and back-end integration using modern web technologies.)*
-
-- **[spring7-rest](https://github.com/grgks/spring7-rest)** – 🌱 A RESTful web service built with **Spring Boot**.  
-  *(Learning project to understand REST API development using Spring Boot, proper structuring of controllers, services, and repositories, and JSON data handling.)*
-  
-- **[school-app-pro](https://github.com/grgks/school-app-pro)** – 🎓 A full-stack school data management app developed with **Java**, **JSP**, **MySQL**, **Lombok**, and **Maven**.  
-  *(Learning project focused on web development with JSP pages, MySQL database integration, and efficient coding practices using Lombok and Maven.)*
-
-- **[rock-paper-scissorsPY](https://github.com/grgks/rock-paper-scissorsPY)** – Classic Rock Paper Scissors game in Python, with GUI using Tkinter and score tracking. Developed for learning Python programming and its standard libraries.
+- **[Frontend](https://github.com/grgks/appointment-system-react)** ▶ React 19 + TypeScript + Tailwind, E2E tests with Selenium, Docker-containerized (84 MB), deployed on Vercel
+- **[Backend](https://github.com/grgks/system-management-RestAPI)** ▶ Spring Boot 3 + JWT + MySQL, 193 tests at 78% coverage, multi-stage Docker build (384 MB → 123 MB), deployed on Render
+- **[Deployment](https://github.com/grgks/workapp-deployment)** ▶ Docker Compose orchestration, MySQL init automation, GitHub Actions CI/CD with Trivy security scanning
 
 ---
+
+### 🏔️ Potamoula ▶ Static Tourist Site *(side project)*
+
+A small static site for my family village in Aetolia-Acarnania. Built to learn Vite + i18n + custom domain DNS on Vercel, and to give back to a place that matters to me.
+
+**🌐 Live:** [potamoula.gr](https://potamoula.gr)
+
+React 19 + TypeScript + Tailwind v4 + react-i18next, deployed on Vercel with custom domain via Papaki.
+
+---
+
+### 🧪 Earlier Learning Projects
+
+- **[appR](https://github.com/grgks/appR)** — Node.js + MongoDB with JWT and Google OAuth. Learning full-stack auth and social login flows.
+- **[spring7-rest](https://github.com/grgks/spring7-rest)** — Learning REST API structure with Spring Boot: controllers, services, repositories, JSON handling.
+- **[school-app-pro](https://github.com/grgks/school-app-pro)** — Java + JSP + MySQL + Maven. Learning classic Java web development before moving to Spring Boot.
+- **[rock-paper-scissorsPY](https://github.com/grgks/rock-paper-scissorsPY)** — Python + Tkinter GUI. Learning Python fundamentals and standard library.
+
+---
+
+## 🎓 Learning Journey
+
+**Certifications:**
+- ✅ **ISC2 Certified in Cybersecurity (CC)** . Foundational security concepts, network security, incident response, GRC
+- ✅ **Microsoft Azure Fundamentals (AZ-900)** . Core Azure services, cloud concepts, pricing and support
+
+**Formal Training:**
+- ✅ **Coding Factory @ AUEB** . 9-month intensive full-stack program (100/100), Java/Spring, React, DevOps, testing
+- ✅ **Cybersecurity Bootcamp** . Hands-on offensive/defensive security, SOC concepts, threat modelling
+
+**Currently exploring (with real projects, not tutorials):**
+- 🐳 Self-hosted production deployments: Docker Compose, Caddy reverse proxy, memory tuning, log rotation
+- 🔒 Defense-in-depth security: SSH hardening, fail2ban, layered rate limiting, brute-force protection
+- ☁️ Azure services beyond the basics: Static Web Apps, Application Insights, cookieless GDPR-friendly telemetry
+- 📊 Production observability: Lighthouse tuning, SAST (SonarQube), DAST (OWASP ZAP), CVE remediation
+- 🎯 Learning what "production-ready" really means through real users, not localhost demos
+
+**Next up:**
+- 📘 **AZ-204** (Azure Developer Associate) Deeper Azure services, monitoring, integration
+- 📘 **AZ-500** (Azure Security Engineer) Cloud security controls, identity, threat protection
+- ⚡ Kubernetes fundamentals (small home cluster to learn concepts, not because I need K8s today)
+- 🐍 More Python for scripting and security tooling
+  
+---
+
 ## 🌍 Links
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgos-k-882332360)
 
 
 ---
-## 🎯 Current Focus & Goals
 
-**Recently Achieved:**
-- ✅ Docker containerization & multi-stage builds
-- ✅ CI/CD pipelines with GitHub Actions
-- ✅ Security scanning automation (Trivy)
-- ✅ Comprehensive testing (193 tests, 78% coverage)
-- ✅ Production deployment with Docker Compose
-- ✅ Cloud deployment (Vercel + Render)
-- ✅ Analytics & monitoring (Vercel Analytics)
-**Next Steps:**
-- 🚀 Kubernetes orchestration and scaling
-- ☁️ Cloud deployment (AWS/Azure)
-- 📊 Monitoring & observability (Prometheus/Grafana)
-- 🔄 Advanced CI/CD patterns
-- 🐍 Python for data processing & automation
-- 🤝 Open-source contributions
-- 📱 Mobile development integration
----
 ## 📬 Contact
 
 📧 Email: gkeo933@gmail.com
