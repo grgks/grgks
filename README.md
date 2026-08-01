@@ -199,5 +199,5 @@ React 19 + TypeScript + Tailwind v4 + react-i18next, deployed on Vercel with cus
 
 ---
 🙌 **Thanks for your time and interest!**  
-Feel free to explore my projects, connect, or drop a message — always happy to share, learn, and collaborate.
+Feel free to explore my projects, connect, or drop a message. Always happy to share, learn, and collaborate.
 
