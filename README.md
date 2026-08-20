@@ -24,12 +24,23 @@
 ## 🚀 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grgks&show_icons=true&theme=radical"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=grgks&show_icons=true&theme=radical"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=grgks&layout=compact&theme=radical"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grgks&theme=radical"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grgks&theme=radical"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 ## 🚀 Technologies & Tools
